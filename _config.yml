@@ -1,10 +1,9 @@
 # Site settings
 title: Hailey M. Mahan
 email: hailey.mahan@gmail.com
-description: "Amazing thoughts on code, old movies, food, journalism and other amazing things."
-baseurl: "/hmahan.github.io"
+description: "Amazing thoughts about about amazing things like code, food, cocktails, old movies and journalism."
 url: "http://hmahan.github.io"
-twitter_username: haileymmahan
+twitter_username: HaileyMMahan
 github_username:  hmahan
 
 # Build settings
