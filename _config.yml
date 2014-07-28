@@ -1,6 +1,12 @@
-name: Hailey M. Mahan
-markdown: redcarpet
-pygments: true
+# Site settings
+title: Hailey M. Mahan
+email: hailey.mahan@gmail.com
+description: "Amazing thoughts on code, old movies, food, journalism and other amazing things."
 baseurl: "/hmahan.github.io"
 url: "http://hmahan.github.io"
+twitter_username: haileymmahan
+github_username:  hmahan
 
+# Build settings
+markdown: kramdown
+permalink: pretty
