@@ -4,6 +4,7 @@ title:  "Testing!"
 date:   2014-07-28 14:46:51
 categories: test
 description: "This is an example description of things that might go in the index page."
+comments: true
 ---
 
 Testy test

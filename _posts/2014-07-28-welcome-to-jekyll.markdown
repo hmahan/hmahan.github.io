@@ -4,6 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2014-07-28 14:46:51
 categories: jekyll update
 description: "This is an example description of things that might go in the index page."
+comments: true
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
