@@ -9,7 +9,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Georgia, Times New Roman, Times, serif;
+  font-family: Times New Roman, Times, serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -148,6 +148,9 @@ a:visited { color: #B40B0B; }
 .home h1 {
   margin-bottom: 25px;
   font-family: "futura-pt", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: .95em;
  }
 
 .posts { list-style-type: none; }
@@ -158,14 +161,17 @@ a:visited { color: #B40B0B; }
   font-size: 30px;
   letter-spacing: -1px;
   line-height: 1;
-  font-style: italic;
-  font-family: 'Crimson Text', Georgia, Times, serif;
+  font-family: "futura-pt", Helvetica, Arial, sans-serif;
+  font-weight: 400;
 }
 
 .posts .post-date {
   display: block;
-  font-size: 15px;
+  font-size: 14px;
   color: #818181;
+  font-family: "futura-pt", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: -.5px;
 }
 
 
