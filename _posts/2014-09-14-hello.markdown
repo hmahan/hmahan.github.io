@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Hello my name is Hailey."
+date:   2014-09-14 20:54:51
+categories: general
+description: "My name is Hailey and I have a lot of feelings about things."
+comments: true
+---
+
+Hello my name is Hailey and I have a lot of feelings about things. This is where I write about said things. Topics include (but are not limited to):
+
+- Code, particularly code in the Front-end realm
+- Tech industry
+- Music
+- Old movies
+- Television
+- Food
+- Alcohol
+- Feminism
+
+I live in Nashville, Tennessee and work as a Front-end Developer at [Lonely Planet](https://www.lonelyplanet.com) where I don't get to travel but I get to work on cool things that help other people travel and look at beautiful travel pictures all day. 
+
+More to follow.
