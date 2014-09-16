@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Roost Conference brain dump"
+date:   2014-09-16 14:58:51
+categories: code
+description: "Revisiting old friends (code-wise) and making new ones at the Roost & jQuery conference."
+comments: true
+---
+
+I may live in the South right now, but I am a total Chicago girl. It's my favorite city in the world. Have you ever been? Stop what you're doing right now and buy a ticket. Immediately.
+
+So when I got the chance to go to the [Roost](http://roost.bocoup.com/) and [jQuery](http://events.jquery.org/2014/chicago/) conference in The Windy City, I jumped at the chance. Not only did I get a short trip home, but I was able to meet a ton of cool people in the tech industry and learn a bunch of new things.
+
+The first two days of the conference was dedicated to Roost and building a photo-sharing Javascript app from the ground up. The app utilized and talks were given on [node.js](http://nodejs.org/), [Backbone](http://backbonejs.org/), [Grunt](http://gruntjs.com/), [JSCS](https://github.com/jscs-dev/node-jscs), [JSHint](http://www.jshint.com/), [RequireJS](http://requirejs.org/), [Stylus](http://learnboost.github.io/stylus/), [Mocha](http://visionmedia.github.io/mocha/), [Chai](http://chaijs.com/), [Sinon](http://sinonjs.org/), and [Selenium](http://www.seleniumhq.org/). So a lot of information in two days.
+
+Some things we use at Lonely Planet and were great to get a refresher on just because we use it so much it almost becomes like magic (I'm looking at you RequireJS). Other things, like Backbone, we don't use at Lonely Planet and I was curious to get to try some of it out.
+
+The talk about Grunt was great as it was given by [Ben Alman](http://bocoup.com/weblog/author/ben-alman/), one of the creators of Grunt and he really broke it down well to make sure everyone understood the great parts of Grunt.
+
+Almost just as valuable as the talks themselves was the conversations going on in the conference chat. Not only were there lots of restaurant and bar recommendations (Definitely don't go to Sears Tower, do the Hancock and don't do the express elevator just go to the bar on the top floor. Why go to TGI Friday's when Purple Pig is way better? etc. etc.) but there were great suggestions about other technologies and opinions about Grunt vs. [Yeoman](http://yeoman.io/) vs. [Gulp](http://gulpjs.com/). Still undecided about which camp I am in.
+
+There were a few things I didn't like. But most were very little like not putting the required files in the paramaters of the require function but putting them in a require object (seems clumsy and weird to me) and each component, layout, etc. kept all of it's markup, styles, and JS in one folder, rather than breaking them apart into a file just for the styles and one for the JS, etc. That seemed like a weird way to set things up so that other developers can find what they are looking for.
+
+Overall, I have a lot of things to go back and look and mess with in the coming weeks.
+
+Because we didn't actually code in this conference, the fun posts with code snippits will be in the following post about the jQuery part of the conference.
