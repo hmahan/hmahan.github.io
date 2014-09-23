@@ -429,3 +429,15 @@ a:visited { color: #B40B0B; }
     margin: 0 0 15px; }
 
 }
+
+.page-header {
+  font-size: 1.05em;
+ }
+
+.post-summary {
+  font-size: .97em;
+}
+
+.list_item {
+  font-size: .97em;
+}
