@@ -431,7 +431,7 @@ a:visited { color: #B40B0B; }
 }
 
 .page-header {
-  font-size: 1.05em;
+  font-size: 1.05em !important;
  }
 
 .post-summary {
